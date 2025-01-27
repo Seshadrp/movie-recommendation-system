@@ -17,10 +17,10 @@ Can handle large datasets of movies and user ratings.
 (If applicable) A user-friendly interface to explore movie recommendations.
 
 ## How It Works
-Dataset: The system uses movie and user rating datasets to build a recommendation model. (E.g., MovieLens dataset).
-Preprocessing: The data is cleaned and transformed to create a user-item matrix or content-based features.
-Model: The recommendation system predicts movies for users using one or more algorithms (e.g., Singular Value Decomposition (SVD), cosine similarity, etc.).
-Output: Users receive a list of top-rated or most relevant movie suggestions.
+1. **Dataset**: The system uses movie and user rating datasets to build a recommendation model. (E.g., MovieLens dataset).
+2. **Preprocessing**: The data is cleaned and transformed to create a user-item matrix or content-based features.
+3. **Model**: The recommendation system predicts movies for users using one or more algorithms (e.g., Singular Value Decomposition (SVD), cosine similarity, etc.).
+4. **Output**: Users receive a list of top-rated or most relevant movie suggestions.
 
 ## Tech Stack
 1. **Programming Language**: Python
@@ -56,9 +56,9 @@ For a user who likes "Inception" and "The Matrix," the system might recommend:
 
 
 ## Future Improvements
-Adding real-time data updates for dynamic recommendations.
-Expanding to include TV shows or other entertainment options.
-Building a web-based or mobile-friendly UI for easy access.
+1.Adding real-time data updates for dynamic recommendations.
+2.Expanding to include TV shows or other entertainment options.
+3.Building a web-based or mobile-friendly UI for easy access.
 
 
 
