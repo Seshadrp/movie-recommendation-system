@@ -23,12 +23,18 @@ Model: The recommendation system predicts movies for users using one or more alg
 Output: Users receive a list of top-rated or most relevant movie suggestions.
 
 ## Tech Stack
-Programming Language: Python
-Libraries: Pandas, NumPy (data manipulation)
-Scikit-learn (modeling and similarity)
-Surprise (collaborative filtering algorithms)
-Matplotlib, Seaborn
-Streamlit/Flask (optional: for interactive UI)
+1. **Programming Language**: Python
+2. **Libraries**:
+   - **Pandas**: Data manipulation
+   - **NumPy**: Data manipulation
+   - **Scikit-learn**: Modeling and similarity
+   - **Surprise**: Collaborative filtering algorithms
+   - **Matplotlib**: Data visualization
+   - **Seaborn**: Data visualization
+3. **Optional**:
+   - **Streamlit**: For interactive UI
+   - **Flask**: For interactive UI
+
 
 ## Input Example
 Provide a list of movies the user likes, and the system will generate recommendations based on those preferences.
