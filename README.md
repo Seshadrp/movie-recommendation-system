@@ -56,9 +56,10 @@ For a user who likes "Inception" and "The Matrix," the system might recommend:
 
 
 ## Future Improvements
-1.Adding real-time data updates for dynamic recommendations.
-2.Expanding to include TV shows or other entertainment options.
-3.Building a web-based or mobile-friendly UI for easy access.
+1. **Adding real-time data updates** for dynamic recommendations.
+2. **Expanding** to include TV shows or other entertainment options.
+3. **Building a web-based or mobile-friendly UI** for easy access.
+
 
 
 
