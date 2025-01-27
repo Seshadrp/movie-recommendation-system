@@ -42,11 +42,12 @@ The system outputs a ranked list of movies with their predicted ratings, allowin
 ## Example Output
 For a user who likes "Inception" and "The Matrix," the system might recommend:
 
-Interstellar\n
-Blade Runner 2049\n
-The Dark Knight\n
-Minority Report\n
-The Prestige
+1. **Interstellar**
+2. **Blade Runner 2049**
+3. **The Dark Knight**
+4. **Minority Report**
+5. **The Prestige**
+
 
 ## Future Improvements
 Adding real-time data updates for dynamic recommendations.
