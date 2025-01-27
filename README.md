@@ -1,4 +1,4 @@
-# Movie-Recommendation-System_using-Collaberative-Filtering
+# Movie Recommendation System using Collaberative Filtering
 Movie Recommendation System
 Overview:
 This project is a Movie Recommendation System that suggests movies based on user preferences, ratings, and other data. The system is designed to provide personalized recommendations, enhancing the movie-watching experience for users. It leverages modern recommendation techniques, including Collaborative Filtering and Content-Based Filtering, to generate accurate and meaningful suggestions.
